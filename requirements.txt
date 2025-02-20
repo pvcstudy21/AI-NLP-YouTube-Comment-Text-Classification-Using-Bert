@@ -1,0 +1,6 @@
+selenium
+beautifulsoup4
+torch
+transformers
+pandas
+scikit-learn
